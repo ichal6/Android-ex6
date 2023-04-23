@@ -5,6 +5,9 @@ import android.os.Bundle
 import android.widget.ArrayAdapter
 import android.widget.Button
 import android.widget.ListView
+import pl.lechowicz.android_vi.db.DbHelper
+import pl.lechowicz.android_vi.db.StudentDao
+import pl.lechowicz.android_vi.db.StudentDaoImpl
 
 class MainActivity : AppCompatActivity() {
 

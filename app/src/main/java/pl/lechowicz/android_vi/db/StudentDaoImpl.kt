@@ -1,6 +1,7 @@
-package pl.lechowicz.android_vi
+package pl.lechowicz.android_vi.db
 
 import android.content.ContentValues
+import pl.lechowicz.android_vi.model.Student
 
 class StudentDaoImpl(private val dbHelper: DbHelper) : StudentDao {
 

@@ -1,4 +1,4 @@
-package pl.lechowicz.android_vi
+package pl.lechowicz.android_vi.db
 
 import android.content.ContentValues
 import android.content.Context

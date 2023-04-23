@@ -1,4 +1,4 @@
-package pl.lechowicz.android_vi
+package pl.lechowicz.android_vi.db
 
 object StudentTable {
     const val TABLE_NAME = "students"

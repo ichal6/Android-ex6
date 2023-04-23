@@ -1,4 +1,6 @@
-package pl.lechowicz.android_vi
+package pl.lechowicz.android_vi.db
+
+import pl.lechowicz.android_vi.model.Student
 
 interface StudentDao {
     fun getAllStudents(): List<Student>

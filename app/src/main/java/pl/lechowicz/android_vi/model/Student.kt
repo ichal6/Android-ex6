@@ -1,4 +1,4 @@
-package pl.lechowicz.android_vi
+package pl.lechowicz.android_vi.model
 
 data class Student(
     val id: Int,
